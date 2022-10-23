@@ -1,0 +1,212 @@
+body{
+    height: 100%;
+    margin: 0;
+    background-color: #fff;
+    color: rgba(0,0,0,.87);
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 1.4rem;
+    line-height: 1.5;
+    letter-spacing: -.01em;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-feature-settings: "calt";
+
+}
+.hero-btn{
+    display: inline-block;
+    background: none;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 50px;
+    padding: 7px 16px;
+    font-weight: 600;
+    line-height: 1.2;
+    text-align: center;
+    text-decoration: none;
+    transition: all .2s ease;
+    color: #1e3932;
+    cursor: pointer;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    text-decoration: none;
+}
+
+.hero-img{
+    width: -webkit-fill-available;
+}
+.hero-card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.background-blue{
+    background-color: #d4e9e2;
+}
+#bluecard{
+    padding-left: 0;
+}
+.h1-hero{
+    font-size: 50px;
+    letter-spacing: 2px;
+    
+    font-weight: 600!important;
+    /* margin-bottom: 2.4rem!important; */
+    line-height: 1.2;
+    padding: 4.8rem;
+    padding-bottom: 2.4rem!important;
+}
+.hero-content{
+    max-width:83%;
+    
+    text-align: center!important;
+}
+.hero-para{
+    font-size: 24px;
+}
+.background-green{
+    background-color: #006241;
+}
+.second-hero{
+    padding: 2.5rem;
+    
+}
+.h2-heading{
+    font-size: 24px;
+    margin-bottom: 2.4rem!important;
+    font-weight: 600!important;
+}
+.para-second{
+    font-size: 19px;
+    color: #1e3932;
+    line-height: 1.75;
+}
+.ul-second{
+    margin-top: 1.5em;
+}
+.white-color{
+    color: white;
+}
+.h1-first{
+    color: #1e3932;
+}
+#third-heading{
+    letter-spacing: 0;
+}
+#third-btn{
+    color: white;
+}
+#fourth-btn{
+ color: #fff;
+}
+.smallfooter{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.width-60{
+    max-width: 60%;
+    padding: 5.2rem;
+    font-size: 14px;
+    line-height: 1.8;
+    letter-spacing: -.01em;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    padding-bottom: 0;
+}
+a:hover {
+    text-decoration: none;
+}
+.linking{
+    color: black;
+}
+.big-footer{
+    
+        padding-top: 2.4rem!important;
+        padding-bottom: 2.4rem!important;
+        max-width: 1440px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 0;
+        padding-right: 0;
+}
+.flexing{
+    display: flex;
+    margin-right: 3rem;
+}
+.footer-h2{
+    font-size: 1.5rem!important;
+    font-weight: 400;
+    margin-bottom: 1.4rem!important;
+}
+.footer-list{
+    list-style: none;
+    padding: 0;
+    line-height: 1.2;
+}
+.footer-list-item{
+    padding-top: 0.8rem!important;
+    padding-bottom: 0.8rem!important;
+    color: rgba(0,0,0,.58);
+    font-size: 1rem;
+}
+.footer-list-item:hover{
+    color: black;
+    cursor: pointer;
+}
+.width-190{
+    width: 190px;
+    max-width: 190px;
+}
+.copyright{
+    font-size: 1rem!important;
+    padding-top: 1.6rem!important;
+    padding-bottom: 1.6rem!important;
+    color: rgba(0,0,0,.58)!important;
+}
+.footer-listing{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 1.6rem!important;
+    margin-bottom: 0.4rem!important;
+    align-items: center!important;
+    display: flex;
+}
+.footer-list-item-1{
+    padding-top: 0.8rem!important;
+    padding-bottom: 0.8rem!important;
+    color: black;
+    font-size: 1rem;
+}
+.footer-line{
+    padding-right: 0.8rem!important;
+    padding-left: 0.8rem!important;
+}
+.terms:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#starbucks{
+    max-width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0;
+    padding-right: 0;
+}
+.nav-item:hover{
+    color: #006241;
+    
+}
+.nav-item{
+    font-weight: bolder;
+}
+.navbarbtn{
+    background-color: black;
+    color: white;
+}
+.store{
+    font-weight: bold;
+}
+.store:hover{
+    color: #006241;
+}
